@@ -2,7 +2,7 @@
   "name": "react-book-finder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://RickyxNguyen.github.io/googleBooks",
+  "homepage": "https://rickyxnguyen.github.io/googleBooks",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.4.1",
